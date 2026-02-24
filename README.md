@@ -18,6 +18,14 @@ Download the full project report:
 
 ---
 
+## LinkedIn Project Post
+
+View the LinkedIn project showcase here:
+
+🔗 https://www.linkedin.com/posts/tanmay-pakori_mysql-project-atliq-hardware-insights-activity-7347618953331970049-cxmM
+
+---
+
 ## Business Problem
 
 AtliQ Hardware experienced rapid growth, leading to:
@@ -45,7 +53,7 @@ The goal was to build scalable SQL solutions to automate reporting and enable da
 - Created layered views to simplify:
   - Pre-invoice deductions
   - Post-invoice deductions
-  - Final Net Sales calculation
+  - Final Net Sales calculation.
 
 ### 4. Net Sales Calculation Logic
 Net Sales = Gross Price  
@@ -61,16 +69,6 @@ Net Sales = Gross Price
 ### 6. Window Functions
 - Calculated percentage contribution of net sales across markets.
 - Enabled ranking-based reporting.
-
----
-
-## Key Insights Generated
-
-- Identified top-performing markets in FY 2021
-- Ranked customers by net sales contribution
-- Measured product performance across divisions
-- Classified markets based on revenue thresholds
-- Automated repeat reporting for multiple fiscal years
 
 ---
 
