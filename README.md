@@ -93,7 +93,7 @@ This project demonstrates how SQL can:
 - Replace inefficient Excel reporting
 - Automate recurring business reports
 - Improve scalability of data analysis
-- Support executive-level decision making
+- Support executive-level decision making.
 - Enable reusable and modular query design
 
 ---
